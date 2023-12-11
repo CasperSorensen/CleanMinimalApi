@@ -5,7 +5,7 @@
 
 # dotenv files
 .env
-/MinimalApi/appsettings.json
+MinimalApi/appsettings.json
 
 # User-specific files
 *.rsuser
